@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\natus maverick\source\repos\breakout\breakout\main.cpp(314): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\natus maverick\source\repos\breakout\breakout\main.cpp(385): warning C4018: “<”: 有符号/无符号不匹配
+  Breakout.vcxproj -> C:\Users\Natus Maverick\source\repos\Breakout\Debug\Breakout.exe
